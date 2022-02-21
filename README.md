@@ -7,6 +7,10 @@ Project made with React with responsiveness.
 
 
 
+https://user-images.githubusercontent.com/50121055/154963820-7a4e1b47-27aa-46f0-a3a2-4c3cefe46f40.mp4
+
+
+
 ---
 The use of color plays a major role in an applications User Interface and
 User Experience (UI/UX). ColorCycle seeks to help WebDev's better understand
